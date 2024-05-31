@@ -1,15 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T20:23:17.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LVzeLnKlU6SCq8yuy4-6" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T20:39:04.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="m6xrsfBLh86r3Gj2M_X5" version="24.4.13" type="github">
   <diagram name="Page-1" id="QvE5s0dXJsq5SlCrJO8p">
-    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LGdwHQYGaz8BIS5lbqM_-1" value="Doador APP (Mobile)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="350" width="430" height="430" as="geometry" />
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-1" value="Doador APP (Mobile)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#b85450;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="290" height="240" as="geometry">
+            <mxRectangle x="70" y="240" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LGdwHQYGaz8BIS5lbqM_-2" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Doador APP (Mobile)&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="410" height="400" as="geometry">
-            <mxRectangle x="310" y="300" width="150" height="30" as="alternateBounds" />
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-2" value="Login doador" style="text;strokeColor=#d6b656;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-3" value="Cadastro doador" style="text;strokeColor=#d6b656;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="60" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-4" value="Home (+)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-5" value="Lista de tipos de doação" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="120" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-6" value="Detalhe da doação" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="150" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-7" value="Confirmar agenda de doação" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="180" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-18" value="Minhas ultimas doações" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-1">
+          <mxGeometry y="210" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-13" value="Home" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="414" y="400" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-12" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="w-nJKW1LQ8acHbjKGVZW-13">
+          <mxGeometry y="30" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-8" value="Lista de Hemocentros" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-12">
+          <mxGeometry width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-9" value="Noticias&amp;nbsp;" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-12">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-10" value="Dicas / Informativos" style="text;strokeColor=none;fillColor=#FFFFCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="w-nJKW1LQ8acHbjKGVZW-12">
+          <mxGeometry y="60" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w-nJKW1LQ8acHbjKGVZW-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-nJKW1LQ8acHbjKGVZW-4" target="w-nJKW1LQ8acHbjKGVZW-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="345" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
